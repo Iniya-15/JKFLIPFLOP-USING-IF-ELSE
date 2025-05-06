@@ -34,7 +34,15 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+step1: Define Inputs and Output
+
+step2: Use an always Block with Clock
+
+step3: Write if-else Conditions for Inputs
+
+step4: Describe the Flip-Flop Behavior
+
+step5: End the Block close the if-else and always block properly.
 
 **PROGRAM**
 
